@@ -36,5 +36,10 @@ maka root base akan berganti dalam environment yang sudah kita aktifkan seperti 
 6. Jika requirements sudah berhasil diinstall, jalankan aplikasi dengan menuliskan perintah streamlit run app.py
 
 ## Berikut untuk tampilan demo aplikasinya:
+Tampilan aplikasi: ![image](https://github.com/Jalil98/INTERACTIVE-DASHBOARD-WITH-PYTHON-STREAMLIT/assets/86903939/5daa3627-29f0-4e1e-9bb3-65204e18ed2a)
+
+
+Link Demo aplikasi --> https://youtu.be/AC7a0wyeKyg
+
 
 
